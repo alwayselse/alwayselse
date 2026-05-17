@@ -231,7 +231,7 @@ Ramaiah University of Applied Sciences
 
 # 🤝 Connect With Me
 
-- LinkedIn: [Linkedin(https://www.linkedin.com/in/nikhil-jha-0424ab208/)]
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nikhil-jha-0424ab208/)
 - Email: [nikhilvatsya@gmail.com]
 
 ---
