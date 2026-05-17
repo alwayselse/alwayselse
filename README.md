@@ -226,20 +226,13 @@ Ramaiah University of Applied Sciences
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alwayselse&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwayselse&layout=compact&theme=tokyonight" height="170"/>
-</p>
 
 ---
 
 # 🤝 Connect With Me
 
-- LinkedIn: [Add LinkedIn URL]
-- Portfolio: [Add Portfolio URL]
-- Email: [Add Email]
+- LinkedIn: [Linkedin(https://www.linkedin.com/in/nikhil-jha-0424ab208/)]
+- Email: [nikhilvatsya@gmail.com]
 
 ---
 
