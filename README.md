@@ -1,6 +1,6 @@
 # Hey, I'm Nikhil Jha 👋
 
-### AI Engineer • GenAI Systems Builder • ML Infrastructure Enthusiast
+### AI • GenAI Systems • ML/DL • Data Science
 
 I build production-oriented AI systems focused on:
 - Retrieval-Augmented Generation (RAG)
